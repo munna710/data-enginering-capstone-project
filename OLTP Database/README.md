@@ -24,4 +24,6 @@ List indexes on the table sales_data.
 ![](https://github.com/munna710/data-enginering-capstone-project/blob/main/OLTP%20Database/images/listindex.png)
 
 # Task 8 - Write a bash script to export data.
-
+- [datadump.sh](https://github.com/munna710/data-enginering-capstone-project/blob/main/OLTP%20Database/datadump.sh) that exports all the rows in the sales_data table to a file named sales_data.sql
+- ![](https://github.com/munna710/data-enginering-capstone-project/blob/main/OLTP%20Database/images/export.png)
+  
