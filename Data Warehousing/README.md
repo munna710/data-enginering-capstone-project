@@ -16,4 +16,10 @@ Using the ERD design tool design the table softcartDimCountry.
 
 # Task 5 - Design the fact table softcartFactSales
 Using the ERD design tool design the table softcartFactSales.
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0321EN-SkillsNetwork/datawarehousing/ecom-sample-data.png)
+# Task 6 - Design the relationships
+Using the ERD design tool design the required relationships(one-to-one, one-to-many etc) amongst the tables.
+![](https://github.com/munna710/data-enginering-capstone-project/blob/main/Data%20Warehousing/images/tables.png)
+# Task 7 - Create the schema.
+Download the schema sql from ERD tool and create the schema in a database named staging.
+
+![](https://github.com/munna710/data-enginering-capstone-project/blob/main/Data%20Warehousing/images/staging.png)
