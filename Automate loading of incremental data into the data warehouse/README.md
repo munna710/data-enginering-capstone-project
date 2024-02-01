@@ -1,4 +1,15 @@
 # Create a database named sales in mysql and Import the data in the file sales.sql into the sales database.
+![](https://github.com/munna710/data-enginering-capstone-project/blob/main/Automate%20loading%20of%20incremental%20data%20into%20the%20data%20warehouse/images/mysqload.png)
+# Download the mysqlconnect.py python programs from link below.
+
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0321EN-SkillsNetwork/ETL/mysqlconnect.py
+
+Step 1: mysqlconnect.py has the sample code to help you understand how to connect to MySQL using Python.
+
+Step 2: Modify mysqlconnect.py suitably and make sure you are able to connect to the MySQL server instance.
+
+Note: Before executing mysqlconnect.py note that you install the connector using the command python3 -m pip install mysql-connector-python==8.0.31
+
 ![](https://github.com/munna710/data-enginering-capstone-project/blob/main/Automate%20loading%20of%20incremental%20data%20into%20the%20data%20warehouse/images/mysqlcon.png)
 # If you choose DB2 as the data warehouse:
 - Step 1: Download the db2connect.py python program from the link below.
